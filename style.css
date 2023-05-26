@@ -1,0 +1,22 @@
+body {
+    padding-top: 70px;
+  }
+  
+  .page-heading {
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+  
+  .menu-section {
+    background-color: black;
+    padding: 50px 0;
+  }
+  
+  .menu-section h2 {
+    margin-bottom: 20px;
+  }
+  
+  .menu-section p {
+    margin-bottom: 40px;
+  }
+  
